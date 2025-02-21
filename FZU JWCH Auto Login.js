@@ -12,8 +12,8 @@
 // @run-at       document-end
 // @connect      jwcjwxt2.fzu.edu.cn
 // @license      GPL-3.0-or-later
-// @downloadURL https://update.greasyfork.org/scripts/526970/fzu%20jwch%20auto%20login.user.js
-// @updateURL https://update.greasyfork.org/scripts/526970/fzu%20jwch%20auto%20login.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/526970/FZU%20JWCH%20Auto%20Login.user.js
+// @updateURL https://update.greasyfork.org/scripts/526970/FZU%20JWCH%20Auto%20Login.meta.js
 // ==/UserScript==
 
 /*
