@@ -18,7 +18,7 @@
    - 部分移动端浏览器自带脚本助手，不需要安装油猴，如：X、via等
 2. 在油猴中添加此脚本
    - 使用 [greasyfork.org](https://greasyfork.org/zh-CN/scripts/526970-fzu-jwch-auto-login) 安装脚本
-   - 或点击 [FZU JWCH Auto Login.user.js](https://github.com/west2-online/FZU-JWCH-Auto-Login/raw/main/FZU JWCH Auto Login.user.js) 从 GitHub Raw 中拉取脚本。
+   - 点击 [FZU JWCH Auto Login.user.js](https://github.com/west2-online/FZU-JWCH-Auto-Login/raw/refs/heads/main/FZU%20JWCH%20Auto%20Login.user.js) 从 GitHub Raw 中拉取脚本
    - 手动添加脚本（打开油猴设置面板后，拖入本脚本文件安装）
    - 移动端浏览器添加方法自行搜索
 3. 打开教务处登录网页
