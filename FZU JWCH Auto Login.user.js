@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         FZU JWCH Auto Login
 // @namespace    https://greasyfork.org/zh-CN/users/1435250-linrongda
-// @version      1.9.2
+// @version      1.9.3
 // @description  本脚本适用于FZU教务处本科教学管理系统的验证登录。
 // @author       lrd
-// @match        https://jwch.fzu.edu.cn/login.htm
+// @match        https://jwcjwxt2.fzu.edu.cn/login.htm
 // @icon         https://www.fzu.edu.cn/__local/B/00/85/7E40A9947CCADB9BCCF7F6A8AA0_9BDD11BE_23796.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
